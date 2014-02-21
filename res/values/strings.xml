@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SafeWalk</string>
+    <string name="action_settings">Settings</string>
+    <string name="officer_login">I am a Safety Officer</string>
+    <string name="request_escort">Request Escort</string>
+    <string name="title_activity_request">RequestActivity</string>
+    <string name="name">Full Name</string>
+    <string name="time">Time</string>
+    <string name="location">My Location</string>
+    <string name="date">Date</string>
+    <string name="phone">Phone Number</string>
+    <string name="checkloc">Use My Current Location</string>
+    <string name="contactinfo">Contact Information</string>
+    <string name="reqinfo">Request Information</string>
+    <string name="req">Request an Escort</string>
+    <string name="submit">Submit</string>
+
+</resources>
